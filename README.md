@@ -1,2 +1,17 @@
-# desafio-mod-3
-# pagina: https://gabrielcarrenio.github.io/desafio-mod-3/
+## Single and simple page, oriented to the type of personal portfolio 💼
+
+#
+
+### I made this simple page as a challenge for module number 3 of the [Apx school](https://apx.school/) fullstack web development career. I loved having experimented with CSS and it helped me reinforce basic knowledge of CSS and responsive design but without using BEM methodology.
+
+#
+
+## Author:
+
+**Gabriel Carreño**
+
+- [LinkedIn](www.linkedin.com/in/gabrielcarrenio)
+
+## See live example:
+
+- [Link to a github page](https://gabrielcarrenio.github.io/desafio-mod-3/)
