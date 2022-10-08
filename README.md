@@ -6,6 +6,10 @@
 
 #
 
+### Technologies used in the project: _HTML5_, _CSS_, _Git_ and _Github Pages_ for deployment.
+
+#
+
 ## Author:
 
 **Gabriel Carreño**
