@@ -10,7 +10,7 @@
 
 **Gabriel Carreño**
 
-- [LinkedIn](www.linkedin.com/in/gabrielcarrenio)
+- [LinkedIn](https://www.linkedin.com/in/gabrielcarrenio/)
 
 ## See live example:
 
