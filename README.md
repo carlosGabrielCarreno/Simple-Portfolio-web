@@ -2,11 +2,11 @@
 
 #
 
-### I made this simple page as a challenge for module number 3 of the [Apx school](https://apx.school/) fullstack web development career. I loved having experimented with CSS and it helped me reinforce basic knowledge of CSS and responsive design but without using BEM methodology.
+### I made this simple page as a challenge for module number 3 of the [Apx school](https://apx.school/) fullstack web development career. I loved having experimented with CSS and it helped me reinforce basic knowledge of CSS and responsive design using BEM methodology.
 
 #
 
-### Technologies used in the project: _HTML5_, _CSS_, _Git_ and _Github Pages_ for deployment.
+### Technologies used in the project: _HTML5_, _CSS_, _Git_, _BEM methodology_ and _Github Pages_ for deployment.
 
 #
 
