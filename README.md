@@ -6,7 +6,7 @@
 
 #
 
-### Technologies used in the project: _HTML5_, _CSS_, _Git_, _BEM methodology_ and _Github Pages_ for deployment.
+### Technologies used in the project: _HTML5_, _CSS_ with _BEM methodology_, _Git_ and _Github Pages_ for deployment.
 
 #
 
