@@ -1,10 +1,10 @@
 * {
   padding: 0;
   margin: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 .header,
-.main,
+.hero,
 .section-1,
 .section-2,
 .section-3,
@@ -13,7 +13,7 @@
 }
 @media (min-width: 500px) {
   .header,
-  .main,
+  .hero,
   .section-1,
   .section-2,
   .section-3,
@@ -29,14 +29,14 @@
   align-items: center;
 }
 
-.nav {
+.header__nav {
   display: none;
 }
 @media (min-width: 600px) {
-  .nav {
+  .header__nav {
     display: flex;
   }
-  .a {
+  .header__nav-link {
     text-decoration: none;
     margin-right: 10px;
     color: #000;
@@ -44,31 +44,31 @@
     font-size: 20px;
   }
 
-  .li {
+  .header__li {
     list-style: none;
   }
 }
 @media (min-width: 700px) {
-  .a {
+  .header__nav-link {
     font-size: 24px;
   }
 }
-.logo-header {
+.header__logo {
   width: 80px;
   border-radius: 45%;
 }
 
-.menu-header {
+.header__logo--menu-icon {
   width: 38px;
   height: 40px;
 }
 @media (min-width: 600px) {
-  .menu-header {
+  .header__logo--menu-icon {
     display: none;
   }
 }
 /* main styles */
-.main {
+.hero {
   min-height: 400px;
   display: flex;
   flex-direction: column;
@@ -76,32 +76,32 @@
   background-color: #b3e8e5;
 }
 @media (min-width: 700px) {
-  .main {
+  .hero {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
   }
 }
-.personal-img {
+.hero__personal-photo {
   width: 318px;
   border-radius: 10%;
 }
 /* styles section 1 */
-.section-1 {
+.about {
   max-height: 450px;
   text-align: center;
   background-color: #82dbd8;
   padding: 30px 0;
 }
 @media (min-width: 700px) {
-  .section-1 {
+  .about {
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 0;
   }
 }
-.logo-section-1 {
+.about__personal-logo {
   width: 100px;
   border-radius: 45%;
 }
@@ -111,14 +111,14 @@
     margin: 3em;
   }
 }
-.contenedor-info {
+.about__container-about-info {
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 30px;
 }
 @media (min-width: 700px) {
-  .contenedor-info {
+  .about__container-about-info {
     align-items: flex-start;
   }
 }
